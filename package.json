@@ -1,0 +1,8 @@
+
+
+{
+  "type": "module",
+  "dependencies": {
+    "ws": "^8.12.0"
+  }
+}
